@@ -1,4 +1,8 @@
 ### Hi there 👋
+👯 I am a results-driven Full Stack Web Developer with a solid foundation in computer science and a relentless passion for crafting innovative digital solutions. My journey in technology has been marked by a commitment to excellence and a relentless pursuit of knowledge.
+
+🌐 Latest Achievements:
+Currently recognized as a proficient Full Stack Web Developer, emphasizing Mobile-First strategies and Responsive Web Design. My expertise spans React, Node, Django, and RESTful APIs, showcasing a commitment to staying at the forefront of technology.
 
 <!--
 **Jero327/Jero327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
